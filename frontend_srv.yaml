@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: frontend-srv-version2
+  name: frontend-srv
   labels:
     app: gbchn
     chart: gbchn-0.1.0
